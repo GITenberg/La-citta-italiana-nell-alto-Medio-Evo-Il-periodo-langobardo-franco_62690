@@ -1,0 +1,24 @@
+_repo: La-citta-italiana-nell-alto-Medio-Evo-Il-periodo-langobardo-franco_62690
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mengozzi, Guido
+    gutenberg_agent_id: '52079'
+    url: http://www.gutenberg.org/2009/agents/52079
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2020-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62690'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- History -- 476-1268'
+- !lcsh 'Cities and towns, Medieval -- Italy'
+- !lcc 'DG'
+- GITenberg
+title: 'La città italiana nell''alto Medio Evo: Il periodo langobardo-franco'
+url: http://www.gutenberg.org/ebooks/62690
